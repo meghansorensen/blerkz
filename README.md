@@ -1,3 +1,5 @@
+<img src="Assets/Photos/blerkzIcon.png" width="128">
+
 # 🔥 BLERKZ
 By: Meghan Sorensen
 
